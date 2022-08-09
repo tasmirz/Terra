@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "TerraSpy",
+  "short_name": "TerraSpy",
+  "version": "com.team.spaceapp",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "team",
+  "icons": [],
+  "start_url": "index.html"
+}
